@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Senior Software Engineer with Ford with over 10 years of experience designing and developing engaging in-vehicle experiences. My latest work not only enhances customer engagement but also contributes to the Android Open Source Project, pushing the boundaries of multi-display systems.
 <!--
 **MichaelCrimando/MichaelCrimando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
